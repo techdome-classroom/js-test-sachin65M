@@ -35,9 +35,10 @@ var romanToInt = function() {
 
         rl.close();
     });
+    romanToInt();
 };
 
-romanToInt();
 
+module.exports = {romanToInt}
 
 
