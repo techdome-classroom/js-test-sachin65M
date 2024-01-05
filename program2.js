@@ -38,6 +38,6 @@ var romanToInt = function() {
 };
 
 romanToInt();
-
+module.exports={romanToInt}
 
 
